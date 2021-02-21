@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\MudBath\\Mudbath data coding challenge (2)\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {}
+    "C:\\Users\\kavit\\OneDrive\\Desktop\\Empty\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {}
   },
   "projects": {
-    "D:\\Work\\MudBath\\Mudbath data coding challenge (2)\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {
+    "C:\\Users\\kavit\\OneDrive\\Desktop\\Empty\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\MudBath\\Mudbath data coding challenge (2)\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\kavit\\OneDrive\\Desktop\\Empty\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
         "projectName": "CodingChallenge",
-        "projectPath": "D:\\Work\\MudBath\\Mudbath data coding challenge (2)\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+        "projectPath": "C:\\Users\\kavit\\OneDrive\\Desktop\\Empty\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
         "packagesPath": "C:\\Users\\kavit\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\MudBath\\Mudbath data coding challenge (2)\\CodingChallenge\\CodingChallenge\\obj\\",
+        "outputPath": "C:\\Users\\kavit\\OneDrive\\Desktop\\Empty\\CodingChallenge\\CodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kavit\\AppData\\Roaming\\NuGet\\NuGet.Config",
